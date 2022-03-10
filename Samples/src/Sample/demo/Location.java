@@ -2,7 +2,7 @@ package Sample.demo;
 
 public class Location {
 
-	private int attribute;
+	
 	private int lab;
 	
 	public int getLab() {
@@ -13,12 +13,6 @@ public class Location {
 		this.lab = lab;
 	}
 
-	public int getAttribute() {
-		return attribute;
-	}
-
-	public void setAttribute(int attribute) {
-		this.attribute = attribute;
-	}
+	
 	
 }
